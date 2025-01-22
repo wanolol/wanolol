@@ -10,6 +10,6 @@
 </div>
 
 <div>
-    <span>°</span>
+    <span>°°°°°</span>
     <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB5aGRqOHRyaGQyY2poOHNrNmIxcHdmZWZwYnB2MXV4cXdka3Q5MSZlcD12MV9pbnRlbnRhbF9naWZfYnlfaWQmY3Q9Zw/70Jd3dqLoaQlrQK9cm/giphy.gif" />
 </div>
