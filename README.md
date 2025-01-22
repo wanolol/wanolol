@@ -20,14 +20,4 @@
 暗号化された世界の住人として、未来を守るために見えない刃を振るう。
  />
 </div>
-
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB5aGRqOHRyaGQyY2poOHNrNmIxcHdmZWZwYnB2MXV4cXdka3Q5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/70Jd3dqLoaQlrQK9cm/giphy.gif"  />
