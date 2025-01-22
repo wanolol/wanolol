@@ -20,7 +20,9 @@
 暗号化された世界の住人として、未来を守るために見えない刃を振るう。
  />
 </div>
+<div>
 
 
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB5aGRqOHRyaGQyY2poOHNrNmIxcHdmZWZwYnB2MXV4cXdka3Q5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/70Jd3dqLoaQlrQK9cm/giphy.gif"  />
+</div>
